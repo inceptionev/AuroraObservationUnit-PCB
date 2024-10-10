@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Aurora Observation Unit PCB"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "2.0"
+Comp "MIT Plasma Science and Fusion Center"
+Comment1 "Engineer: E. Chiu"
 Comment2 ""
 Comment3 ""
 Comment4 ""
